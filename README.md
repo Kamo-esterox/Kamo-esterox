@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Senior Node.js Developer** with **8+ years** of experience in building high-performance, scalable applications. My expertise lies in **backend architecture, API development, cloud computing, and AI integrations**. I have successfully **led teams, optimized complex workflows, and developed robust backend solutions**.
+I am a **Senior Node.js Developer** with **10+ years** of experience in building high-performance, scalable applications. My expertise lies in **backend architecture, API development, cloud computing, and AI integrations**. I have successfully **led teams, optimized complex workflows, and developed robust backend solutions**.
 
 I thrive in **collaborative environments** and enjoy solving real-world challenges with **efficient and maintainable code**.
 
@@ -13,9 +13,9 @@ I thrive in **collaborative environments** and enjoy solving real-world challeng
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** JavaScript, TypeScript, PHP, GraphQL, Java (basic)
+- **Languages:** JavaScript, TypeScript, PHP, GraphQL, Python, Java (basic)
 - **Backend Frameworks:** Node.js, Nest.js, Express.js, Hapi.js, Laravel, Yii2
-- **Frontend:** Vue.js, React.js, Angular, Tailwind CSS
+- **Frontend:** Vue.js, React.js,Next.js, Angular, Tailwind CSS
 - **Databases:** MongoDB, MySQL, PostgreSQL, Redis
 - **DevOps & Tools:** AWS (S3, Lambda, EventBridge), Docker, Kubernetes, GitHub/GitLab, Terraform
 - **Other Skills:** API Design, Web Scraping, Authentication & Security, Microservices Architecture
